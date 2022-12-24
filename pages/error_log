@@ -1,0 +1,6 @@
+[06-Feb-2015 09:19:17 UTC] PHP Fatal error:  Call to a member function login() on a non-object in /home/robinbrar/public_html/a3ginfotech.in/hr/pages/login.php on line 2
+[21-Feb-2015 11:07:18 UTC] PHP Fatal error:  Call to a member function guestout() on a non-object in /home/robinbrar/public_html/a3ginfotech.in/hrnew/pages/others.php on line 3
+[21-Feb-2015 11:07:27 UTC] PHP Fatal error:  Call to a member function guestout() on a non-object in /home/robinbrar/public_html/a3ginfotech.in/hrnew/pages/others.php on line 3
+[21-Feb-2015 11:08:46 UTC] PHP Fatal error:  Call to a member function guestout() on a non-object in /home/robinbrar/public_html/a3ginfotech.in/hrnew/pages/others.php on line 5
+[21-Feb-2015 11:08:51 UTC] PHP Fatal error:  Call to a member function guestout() on a non-object in /home/robinbrar/public_html/a3ginfotech.in/hrnew/pages/others.php on line 5
+[21-Feb-2015 11:09:01 UTC] PHP Fatal error:  Call to a member function guestout() on a non-object in /home/robinbrar/public_html/a3ginfotech.in/hrnew/pages/others.php on line 5
